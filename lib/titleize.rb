@@ -6,7 +6,7 @@
 #
 # If loaded in a Rails environment, it modifies Inflector.titleize.
 module Titleize
-  SMALL_WORDS = %w{a an and as at but by en for if in of on or the to v v. via vs vs. is was do}
+  SMALL_WORDS = %w{a an and are around as at but by en for if in of on or than the there to v v. via vs vs. is was do from which within where per}
 
   extend self
 
